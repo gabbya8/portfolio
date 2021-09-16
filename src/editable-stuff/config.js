@@ -91,7 +91,7 @@ const portfolio = {
       title: "Star Wars Character Hub",
       description: "A website that utilizes mySQL and PHP to queue information on hero and villan characters from the Star Wars Universe",
       img: require("../assets/img/star-wars.png"),
-      url: "https://github.com/gabbya8/star-wars-hub"
+      url: "https://star-wars-char-hub.herokuapp.com/"
     },
     {
       title: "Meditapp",
