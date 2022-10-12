@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../assets/img/linkedinpic.jpeg"),
   imageSize: 360,
   message:
-    "Hi, I'm Gabby. I'm a recent graduate from Hunter College with a bachelor's degree in Computer Science and a minor in Media Studies.  I am passionate about using creativity with technology to revolutionize our daily lives.  My goal is to pursue this passion through the field of software engineering.  Aside from a programmer, I am also an ameteur roller skater, video game enthusiast and a foodie!",
+    "Hi, I'm Gabby. I'm a Software Engineer with a bachelor's degree in Computer Science and a minor in Media Studies.  I am passionate about using creativity with technology to revolutionize our daily lives.  My goal is to pursue this passion through the field of software engineering.  Aside from a programmer, I am also an ameteur roller skater, video game enthusiast and a foodie!",
   resume: "https://docs.google.com/document/d/13r0wzGNg6wgKyjY1vVJCK1b_7eCCqySC/edit?usp=sharing&ouid=108781859556352815954&rtpof=true&sd=true",
 };
 
@@ -154,7 +154,7 @@ const skills = {
 
 // GET IN TOUCH SECTION
 const getInTouch = {
-  show: true,
+  show: false,
   heading: "Get In Touch",
   message:
     "I'm currently looking for full-time Software Engineering or Web Development opportunities! If you know of any positions available and feel like I'm the right candidate for your company, feel free to email me at",
@@ -166,7 +166,12 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Instructor',// Here Add Company Name
+      role: 'Software Engineer III',
+      companylogo: require('../assets/img/amex.png'),
+      date: 'November 2021 – ',
+    },
+    {
+      role: 'Instructor',
       companylogo: require('../assets/img/gwc-logo.png'),
       date: 'June 2020 – August 2021',
     },
