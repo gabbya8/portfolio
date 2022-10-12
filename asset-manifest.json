@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.9bfbe2f9.chunk.css",
-    "main.js": "/static/js/main.b503a63d.chunk.js",
-    "main.js.map": "/static/js/main.b503a63d.chunk.js.map",
+    "main.js": "/static/js/main.435a1448.chunk.js",
+    "main.js.map": "/static/js/main.435a1448.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.554504a0.js",
     "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
-    "static/js/2.fa10362e.chunk.js": "/static/js/2.fa10362e.chunk.js",
-    "static/js/2.fa10362e.chunk.js.map": "/static/js/2.fa10362e.chunk.js.map",
+    "static/js/2.b6ea921e.chunk.js": "/static/js/2.b6ea921e.chunk.js",
+    "static/js/2.b6ea921e.chunk.js.map": "/static/js/2.b6ea921e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.85ae5b673a36351b476521de3d2a701e.js": "/precache-manifest.85ae5b673a36351b476521de3d2a701e.js",
+    "precache-manifest.65bf5c8ba21c6e1d2cd36f9d496ad150.js": "/precache-manifest.65bf5c8ba21c6e1d2cd36f9d496ad150.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.9bfbe2f9.chunk.css.map": "/static/css/main.9bfbe2f9.chunk.css.map",
-    "static/js/2.fa10362e.chunk.js.LICENSE.txt": "/static/js/2.fa10362e.chunk.js.LICENSE.txt",
+    "static/js/2.b6ea921e.chunk.js.LICENSE.txt": "/static/js/2.b6ea921e.chunk.js.LICENSE.txt",
+    "static/media/amex.png": "/static/media/amex.da034fc9.png",
     "static/media/climate-game.png": "/static/media/climate-game.f3b738ba.png",
     "static/media/explore-page.png": "/static/media/explore-page.10a6aa02.png",
     "static/media/gwc-logo.png": "/static/media/gwc-logo.0767565f.png",
@@ -23,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.554504a0.js",
-    "static/js/2.fa10362e.chunk.js",
+    "static/js/2.b6ea921e.chunk.js",
     "static/css/main.9bfbe2f9.chunk.css",
-    "static/js/main.b503a63d.chunk.js"
+    "static/js/main.435a1448.chunk.js"
   ]
 }
