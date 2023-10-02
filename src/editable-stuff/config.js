@@ -55,7 +55,7 @@ const about = {
   imageSize: 360,
   message:
     "Hi, I'm Gabby. I'm a Software Engineer with a bachelor's degree in Computer Science and a minor in Media Studies.  I am passionate about using creativity with technology to revolutionize our daily lives.  My goal is to pursue this passion through the field of software engineering.  Aside from a programmer, I am also an ameteur roller skater, video game enthusiast and a foodie!",
-  resume: "https://docs.google.com/document/d/1fBqOIYL5NQgpYh_lqktl2TXMOxBXz9tt/edit?usp=sharing&ouid=108781859556352815954&rtpof=true&sd=true",
+  resume: "https://docs.google.com/document/d/16k6x2uH1apcdFu68WwdILCYN-7xaxDml/edit?usp=sharing&ouid=108781859556352815954&rtpof=true&sd=true",
 };
 
 // PROJECTS SECTION
@@ -166,7 +166,7 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer III',
+      role: 'Software Engineer',
       companylogo: require('../assets/img/amex.png'),
       date: 'November 2021 – ',
     },
